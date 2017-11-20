@@ -1,1 +1,2 @@
 Dit is een test voor push naar remote
+Dit is een test voor pull naar local
